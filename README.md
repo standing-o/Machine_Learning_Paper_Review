@@ -2,10 +2,10 @@
 - Machine learning Paper review and code implementation in weekly Sclab seminar
 
 ## Paper 1. Turing, Alan Mathison. "On computable numbers, with an application to the Entscheidungsproblem." J. of Math 58.345-363 (1936): 5.
-[[presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.1_Turing_Machine/20200929_Paper1_Turing_Machine.pdf)  
+[[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.1_Turing_Machine/20200929_Paper1_Turing_Machine.pdf)  
 
 ## Paper 2. Turing, Alan M. "Computing machinery and intelligence." Parsing the turing test. Springer, Dordrecht, 2009. 23-65.  
-[[presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.2_Imitation_Game/20201006_Paper2_Imitation_game.pdf)  
+[[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.2_Imitation_Game/20201006_Paper2_Imitation_game.pdf)  
 
 ## Book 1. Pattern Recognition & Machine Learning, Bishop
 > 1. Polynomial Curve Fitting, Error function (RMS), Model Selection, Regularization  [[20200819]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop)  
