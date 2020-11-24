@@ -7,6 +7,9 @@
 ## Paper 2. Turing, Alan M. "Computing machinery and intelligence." Parsing the turing test. Springer, Dordrecht, 2009. 23-65.  
 [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.2_Imitation_Game/20201006_Paper2_Imitation_game.pdf)  
 
+## Paper 3. Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. "Learning representations by back-propagating errors." nature 323.6088 (1986): 533-536.  
+[[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.3_Back-Propagation/20201110_Paper3_Back-Propagation.pdf)  
+
 ## Book 1. Pattern Recognition & Machine Learning, Bishop
 > 1. Polynomial Curve Fitting, Error function (RMS), Model Selection, Regularization  [[20200819]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop)  
 > 2. Probability Theory - Bayesian probabilities, Parameter Estimation, Cross Validation, Information criteria - AIC  [[20200901]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop/20200901_PRML.pdf)  
