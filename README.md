@@ -10,6 +10,9 @@
 ## Paper 3. Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. "Learning representations by back-propagating errors." nature 323.6088 (1986): 533-536.  
 [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.3_Back-Propagation/20201110_Paper3_Back-Propagation.pdf)  
 
+## Paper 4. LeCun, Yann, et al. "Gradient-based learning applied to document recognition." Proceedings of the IEEE 86.11 (1998): 2278-2324.
+[[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.4_Convolutional_Neural_Network/20201201_Paper4_Convolutional_Neural_Network.pdf)  
+
 ## Book 1. Pattern Recognition & Machine Learning, Bishop
 > 1. Polynomial Curve Fitting, Error function (RMS), Model Selection, Regularization  [[20200819]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop)  
 > 2. Probability Theory - Bayesian probabilities, Parameter Estimation, Cross Validation, Information criteria - AIC  [[20200901]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop/20200901_PRML.pdf)  
