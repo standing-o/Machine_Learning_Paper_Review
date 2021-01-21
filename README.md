@@ -14,7 +14,7 @@
 [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.4_Convolutional_Neural_Network/20201201_Paper4_Convolutional_Neural_Network.pdf) | [[Code]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.4_Convolutional_Neural_Network/Simple_implementation_of_CNN.ipynb)  
 
 ## Paper 5. Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." science 313.5786 (2006): 504-507.  
-[[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/Paper.5_Dimensionality_Reduction_DBN.pdf)  
+[[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/20210121_Paper.5_Dimensionality_Reduction_DBN.pdf)  
 
 ## Book 1. Pattern Recognition & Machine Learning, Bishop
 > 1. Polynomial Curve Fitting, Error function (RMS), Model Selection, Regularization | [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop)  
