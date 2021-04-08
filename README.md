@@ -1,5 +1,5 @@
 # Machine-learning Paper review (20200819 ~ )  
-- Machine learning Paper review and code implementation in weekly Sclab seminar  
+- Machine learning Paper review and code implementation in weekly seminar in SClab (20200819 ~ 20210204) -> Data Analysis Club (20210407 ~ )
 
 ## Paper 1. Turing, Alan Mathison. "On computable numbers, with an application to the Entscheidungsproblem." J. of Math 58.345-363 (1936): 5.
 [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.1_Turing_Machine/20200929_Paper1_Turing_Machine.pdf)  
@@ -18,10 +18,3 @@
 
 ## Paper 6. Erhan, Dumitru, et al. "Why does unsupervised pre-training help deep learning?." Proceedings of the thirteenth international conference on artificial intelligence and statistics. JMLR Workshop and Conference Proceedings, 2010.  
 [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.6_Unsupervised_Pre-training/20210204_Paper.6_Unsupervised_Pre-training.pdf)  
-
-## Book 1. Pattern Recognition & Machine Learning, Bishop
-> 1. Polynomial Curve Fitting, Error function (RMS), Model Selection, Regularization | [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop)  
-> 2. Probability Theory - Bayesian probabilities, Parameter Estimation, Cross Validation, Information criteria - AIC | [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop/20200901_PRML.pdf)  
-> 3. The curse of dimensionality, Decision Theory, Minimizing the misclassification rate | [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop/20200908_PRML.pdf)  
-> 4. Minimizing the expected loss, Inference and decision, Generative and Disciriminative models, Loss function for regression | [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop/20200915_PRML.pdf)  
-> 5. Information theory, Entropy, Gaussian Distribution | [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Book.1_Pattern_Recognition_and_Machine_Learning%2C_Bishop/20200922_PRML.pdf)  
