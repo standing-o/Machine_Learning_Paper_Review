@@ -14,7 +14,7 @@
 [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.4_Convolutional_Neural_Network/20201201_Paper4_Convolutional_Neural_Network.pdf) | [[Code]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.4_Convolutional_Neural_Network/Simple_implementation_of_CNN.ipynb)  
 
 ## Paper 5. Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." science 313.5786 (2006): 504-507.  
-[[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/20210121_Paper.5_Dimensionality_Reduction_DBN.pdf)  
+[Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/20210121_Paper.5_Dimensionality_Reduction_DBN.pdf)  
  | [Code1](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Paper.5_Dimensionality_Reduction_DBN/AE_and_PCA), [Code2](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Paper.5_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST)  
 
 - Dataset
