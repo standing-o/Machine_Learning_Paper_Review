@@ -21,7 +21,7 @@
 [1] MNIST in CSV, https://www.kaggle.com/oddrationale/mnist-in-csv
 ```
 - In addition, we conducted a simple study that applied dimensionality reduction using PCA, RBM to classification problems.  
-["Dimensionality reduction methods and deep learning approach"](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST/Poster.pdf) <<-- Click!
+-->> ["Dimensionality reduction methods and deep learning approach"](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST/Poster.pdf)
 
 ## Paper 6. Erhan, Dumitru, et al. "Why does unsupervised pre-training help deep learning?." Proceedings of the thirteenth international conference on artificial intelligence and statistics. JMLR Workshop and Conference Proceedings, 2010.  
 [[Presentation]](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.6_Unsupervised_Pre-training/20210204_Paper.6_Unsupervised_Pre-training.pdf)  
