@@ -1,5 +1,5 @@
 # Machine-learning Paper review
-- Machine learning Paper review and code implementation in weekly seminar in SClab (Aug, 2020 ~ Feb, 2021) -> Data Analysis Club (Apr, 2021)
+- Machine learning Paper review and code implementation in weekly seminar in SClab -> Data Analysis Club
 - Aug. 19, 2020 ~ Present
 
 ## Paper 1. Turing, Alan Mathison. "On computable numbers, with an application to the Entscheidungsproblem." J. of Math 58.345-363 (1936): 5.
