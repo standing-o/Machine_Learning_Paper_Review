@@ -26,3 +26,6 @@
 
 ## Paper 6. Erhan, Dumitru, et al. "Why does unsupervised pre-training help deep learning?." Proceedings of the thirteenth international conference on artificial intelligence and statistics. JMLR Workshop and Conference Proceedings, 2010.  
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.6_Unsupervised_Pre-training/20210204_Paper.6_Unsupervised_Pre-training.pdf) |  
+
+## Paper 7. Sutskever, Ilya, et al. "On the importance of initialization and momentum in deep learning." International conference on machine learning. PMLR, 2013.  
+| [Presentation]() |
