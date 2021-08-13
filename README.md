@@ -28,4 +28,4 @@
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.6_Unsupervised_Pre-training/20210204_Paper.6_Unsupervised_Pre-training.pdf) |  
 
 ## Paper 7. Sutskever, Ilya, et al. "On the importance of initialization and momentum in deep learning." International conference on machine learning. PMLR, 2013.  
-| [Presentation]() |
+| [Presentation]https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.7_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
