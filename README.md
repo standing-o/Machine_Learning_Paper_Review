@@ -29,3 +29,6 @@
 
 ## Paper 7. Sutskever, Ilya, et al. "On the importance of initialization and momentum in deep learning." International conference on machine learning. PMLR, 2013.  
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.7_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
+
+## Paper 8. Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." arXiv preprint arXiv:1412.6980 (2014).
+| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.8_ADAM/20210826_Adaptive_moment_estimation.pdf) |
