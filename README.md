@@ -34,4 +34,4 @@
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.8_ADAM/20210826_Adaptive_moment_estimation.pdf) |
 
 ### Paper 9. Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The journal of machine learning research 15.1 (2014): 1929-1958.  
-| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.9_Dropout/20210907_Dropout.pdf)    
+| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.9_Dropout/20210907_Dropout.pdf) |   
