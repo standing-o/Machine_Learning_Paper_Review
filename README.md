@@ -35,3 +35,6 @@
 
 ### Paper 9. Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The journal of machine learning research 15.1 (2014): 1929-1958.  
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.9_Dropout/20210907_Dropout.pdf) |   
+
+### Paper 10. Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." International conference on machine learning. PMLR, 2015.  
+| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.10_Batch_normalization/20211005_Batch_normalization.pdf) |  
