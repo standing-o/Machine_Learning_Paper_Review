@@ -38,3 +38,6 @@
 
 ### Paper 10. Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." International conference on machine learning. PMLR, 2015.  
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.10_Batch_normalization/20211005_Batch_normalization.pdf) |  
+
+### Paper 11. Srivastava, Rupesh Kumar, Klaus Greff, and Jürgen Schmidhuber. "Training very deep networks." arXiv preprint arXiv:1507.06228 (2015).
+| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.11_HighwayNet/20211019_HighwayNet_Training_very_deep_networks.pdf) | 
