@@ -40,7 +40,7 @@
 <a href='#table-of-contents'></a>
 <br/>
   
-## Classic papers
+## :heavy_check_mark: Classic papers
 #### 1. [Turing Machine] On computable numbers, with an application to the Entscheidungsproblem. | [`[turing1936.pdf]`](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Classic_papers/1_Turing_Machine/20200929_Turing_Machine.pdf) | 
 
