@@ -28,16 +28,15 @@
 #### 6. [He initialization] Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. | [`[he2015.pdf]`](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.12_He_initialization/20211102_He_initialization.pdf) |  
 
-<a href='#table-of-contents'>
+<a href='#table-of-contents'>  
 
 ## Computer Vision
 #### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.4_Convolutional_Neural_Network/20201201_Paper4_Convolutional_Neural_Network.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.4_Convolutional_Neural_Network/Simple_implementation_of_CNN.ipynb) |
 
-<a href='#table-of-contents'>
+<a href='#table-of-contents'>  
   
 ## Classic papers
-
 #### 1. [Turing Machine] On computable numbers, with an application to the Entscheidungsproblem. | [`[turing1936.pdf]`](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.1_Turing_Machine/20200929_Paper1_Turing_Machine.pdf) | 
 
@@ -56,4 +55,4 @@
 #### 5. [Unsupervised Pretraining] Why does unsupervised pre-training help deep learning? | [`[erhan2010.pdf]`](http://proceedings.mlr.press/v9/erhan10a/erhan10a.pdf) 
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.6_Unsupervised_Pre-training/20210204_Paper.6_Unsupervised_Pre-training.pdf) | 
 
-<a href='#table-of-contents'>  
+<a href='#table-of-contents'>   
