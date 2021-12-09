@@ -8,22 +8,22 @@
 -----------------------
 ## Classic papers published before 2012
 
-### 1. [Turing Machine] On computable numbers, with an application to the Entscheidungsproblem. | J. of Math' 1936 | [`[pdf]`](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
+#### 1. [Turing Machine] On computable numbers, with an application to the Entscheidungsproblem. | J. of Math' 1936 | [`[pdf]`](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.1_Turing_Machine/20200929_Paper1_Turing_Machine.pdf) | 
 
-### 2. [Imitation Game] Computing machinery and intelligence. | Parsing the turing test' 2009 | [`[pdf]`](http://www.cse.chalmers.se/~aikmitr/papers/Turing.pdf#page=442)
+#### 2. [Imitation Game] Computing machinery and intelligence. | Parsing the turing test' 2009 | [`[pdf]`](http://www.cse.chalmers.se/~aikmitr/papers/Turing.pdf#page=442)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.2_Imitation_Game/20201006_Paper2_Imitation_game.pdf) |
 
-### 3. [Back-propagation] Learning representations by back-propagating errors. | nature' 1986 | [`[pdf]`](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
+#### 3. [Back-propagation] Learning representations by back-propagating errors. | nature' 1986 | [`[pdf]`](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.3_Back-Propagation/20201110_Paper3_Back-Propagation.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.3_Back-Propagation/Simple_implementation_of_back-propagation.ipynb) |
 
-### 4. [Deep belief net] Reducing the dimensionality of data with neural networks. | science' 2006 | [`[pdf]`](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.3788&rep=rep1&type=pdf)
+#### 4. [Deep belief net] Reducing the dimensionality of data with neural networks. | science' 2006 | [`[pdf]`](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.3788&rep=rep1&type=pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/20210121_Paper.5_Dimensionality_Reduction_DBN.pdf) | [Code1](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Paper.5_Dimensionality_Reduction_DBN/AE_and_PCA), [Code2](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Paper.5_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST) |
 
 - In addition, we conducted a simple study that applied dimensionality reduction using PCA, RBM to classification problems.  
 -->> ["Dimensionality reduction methods and Deep learning approach"](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.5_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST/Poster.pdf)
 
-### 5. [Unsupervised Pretraining] Why does unsupervised pre-training help deep learning? | JMLR Workshop and Conference Proceedings' 2010 |  [`[pdf]`](http://proceedings.mlr.press/v9/erhan10a/erhan10a.pdf) 
+#### 5. [Unsupervised Pretraining] Why does unsupervised pre-training help deep learning? | JMLR Workshop and Conference Proceedings' 2010 |  [`[pdf]`](http://proceedings.mlr.press/v9/erhan10a/erhan10a.pdf) 
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Paper.6_Unsupervised_Pre-training/20210204_Paper.6_Unsupervised_Pre-training.pdf) |  
 
 
