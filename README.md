@@ -7,9 +7,9 @@
 
 
 ## 👉 Table of Contents
-- [Optimization](#-:chart_with_downwards_trend:-optimization)
-- [Computer Vision](#computer-vision)
-- [Classic Papers (before 2012)](#classic-papers)
+- [Optimization](#chart_with_downwards_trend-optimization)
+- [Computer Vision](#tv-computer-vision)
+- [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 -----------------------
 ## :chart_with_downwards_trend: Optimization
 #### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
