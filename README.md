@@ -6,7 +6,7 @@
 - Aug. 19, 2020 ~ Present
 
 
-# Table of Contents
+## 👉 Table of Contents
 - [Optimization](#optimization)
 - [Computer Vision](#computer-vision)
 - [Classic Papers (before 2012)](#classic-papers)
