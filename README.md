@@ -1,13 +1,15 @@
 # Machine-learning Paper review
-- Machine learning Paper review and code implementation in weekly seminar in SClab -> Data Analysis Club
-- Mainly study on machine learning optimization.
+- Machine learning Paper review and code implementation
+- The summary of papers are recorded in Issues (inspired by kweonwooj's [Github](https://github.com/kweonwooj/papers/issues))
+- Presentation slides are made for biweekly seminar in SClab & Data analysis club
+- Mainly study on machine learning optimization and computer vision.
 - Aug. 19, 2020 ~ Present
 
 
 # Table of Contents
 - [Optimization](#optimization)
 - [Computer Vision](#computer-vision)
-- [Classic Papers](#classic-papers)
+- [Classic Papers (before 2012)](#classic-papers)
 -----------------------
 ## Optimization
 #### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
