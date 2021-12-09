@@ -7,7 +7,7 @@
 
 
 ## 👉 Table of Contents
-- [Optimization](#optimization)
+- [Optimization](#:chart_with_downwards_trend:-optimization)
 - [Computer Vision](#computer-vision)
 - [Classic Papers (before 2012)](#classic-papers)
 -----------------------
