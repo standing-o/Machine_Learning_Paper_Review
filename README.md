@@ -13,7 +13,7 @@
 -----------------------
 ## :chart_with_downwards_trend: Optimization
 #### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
-[Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/1) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/1_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/1) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/1_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
 
 #### 2. [Adam] Adam: A method for stochastic optimization. | [`[kingma2014.pdf]`](https://arxiv.org/pdf/1412.6980.pdf?source=post_page---------------------------)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/2_ADAM/20210826_Adaptive_moment_estimation.pdf) |
