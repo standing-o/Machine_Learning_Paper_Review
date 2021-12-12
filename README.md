@@ -21,13 +21,13 @@
 #### 3. [Dropout] Dropout: a simple way to prevent neural networks from overfitting. | [`[srivastava2014.pdf]`](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_campaign=buffer&utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/3) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/3_Dropout/20210907_Dropout.pdf) |   
 
-#### 4. [Batch normalization] Batch normalization: Accelerating deep network training by reducing internal covariate shift. | [`[ioffe2015.pdf]`](http://proceedings.mlr.press/v37/ioffe15.pdf)
+#### 4. [Batch normalization] Batch normalization: Accelerating deep network training by reducing internal covariate shift. | [`[ioffe2015.pdf]`](https://arxiv.org/pdf/1502.03167.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/4) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/4_Batch_normalization/20211005_Batch_normalization.pdf) |  
 
 #### 5. [HighwayNet] Training very deep networks. | [`[srivastava2015.pdf]`](https://arxiv.org/pdf/1507.06228.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/5) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/5_HighwayNet/20211019_HighwayNet_Training_very_deep_networks.pdf) |
 
-#### 6. [He initialization] Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. | [`[he2015.pdf]`](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
+#### 6. [He initialization] Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. | [`[he2015.pdf]`](https://arxiv.org/pdf/1502.01852.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/6_He_initialization/20211102_He_initialization.pdf) |  
 
 <a href='#table-of-contents'></a>
