@@ -15,8 +15,8 @@
 #### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/1) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/1_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
 
-#### 2. [Adam] Adam: A method for stochastic optimization. | [`[kingma2014.pdf]`](https://arxiv.org/pdf/1412.6980.pdf?source=post_page---------------------------)
-| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/2_ADAM/20210826_Adaptive_moment_estimation.pdf) |
+#### 2. [Adam] Adam: A method for stochastic optimization. | [`[kingma2014.pdf]`](https://arxiv.org/pdf/1412.6980.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/2) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/2_ADAM/20210826_Adaptive_moment_estimation.pdf) |
 
 #### 3. [Dropout] Dropout: a simple way to prevent neural networks from overfitting. | [`[srivastava2014.pdf]`](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_campaign=buffer&utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/3_Dropout/20210907_Dropout.pdf) |   
