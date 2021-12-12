@@ -22,7 +22,7 @@
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/3) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/3_Dropout/20210907_Dropout.pdf) |   
 
 #### 4. [Batch normalization] Batch normalization: Accelerating deep network training by reducing internal covariate shift. | [`[ioffe2015.pdf]`](http://proceedings.mlr.press/v37/ioffe15.pdf)
-| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/4_Batch_normalization/20211005_Batch_normalization.pdf) |  
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/4) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/4_Batch_normalization/20211005_Batch_normalization.pdf) |  
 
 #### 5. [HighwayNet] Training very deep networks. | [`[srivastava2015.pdf]`](https://arxiv.org/pdf/1507.06228.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/5_HighwayNet/20211019_HighwayNet_Training_very_deep_networks.pdf) |
