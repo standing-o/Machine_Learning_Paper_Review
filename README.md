@@ -28,7 +28,7 @@
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/5) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/5_HighwayNet/20211019_HighwayNet_Training_very_deep_networks.pdf) |
 
 #### 6. [He initialization] Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. | [`[he2015.pdf]`](https://arxiv.org/pdf/1502.01852.pdf)
-| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/6_He_initialization/20211102_He_initialization.pdf) |  
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/6) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/6_He_initialization/20211102_He_initialization.pdf) |  
 
 <a href='#table-of-contents'></a>
 <br/>
