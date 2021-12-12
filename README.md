@@ -35,7 +35,7 @@
   
 ## :tv: Computer Vision
 #### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
-| [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/7) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
 
 <a href='#table-of-contents'></a>
 <br/>
