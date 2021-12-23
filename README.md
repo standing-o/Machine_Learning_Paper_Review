@@ -1,5 +1,5 @@
 # Machine-learning Paper review
-- Machine learning Paper review and code implementation
+- Machine learning paper review and code implementation
 - The summary of papers are recorded in **Issues** (Inspired by kweonwooj's [Github](https://github.com/kweonwooj/papers/issues) :thumbsup:)
 - Presentation slides are made for biweekly seminar in SClab & Data analysis club
 - Mainly study on machine learning optimization and computer vision.
