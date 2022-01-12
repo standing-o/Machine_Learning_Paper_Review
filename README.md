@@ -2,12 +2,13 @@
 - Machine learning paper review and code implementation
 - The summary of papers are recorded in **Issues** (Inspired by kweonwooj's [Github](https://github.com/kweonwooj/papers/issues) :thumbsup:)
 - Presentation slides are made for biweekly seminar in SClab & Data analysis club.
-- Mainly study on machine learning optimization and computer vision.
+- Mainly study on machine learning optimization and Explainable AI (XAI).
 - Aug. 19, 2020 ~ Present
 
 
 ## 👉 Table of Contents
 - [Optimization](#chart_with_downwards_trend-optimization)
+- [XAI](#mag-XAI)
 - [Computer Vision](#tv-computer-vision)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 -----------------------
@@ -33,6 +34,13 @@
 <a href='#table-of-contents'></a>
 <br/>
   
+## :mag: XAI
+#### 1. Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020]`](https://arxiv.org/pdf/2006.11371.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
+
+<a href='#table-of-contents'></a>
+<br/>
+
 ## :tv: Computer Vision
 #### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/7) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
