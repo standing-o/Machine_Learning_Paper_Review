@@ -35,7 +35,7 @@
 <br/>
   
 ## :mag: XAI
-#### 1. Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020]`](https://arxiv.org/pdf/2006.11371.pdf)
+#### 1. Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
 
 <a href='#table-of-contents'></a>
