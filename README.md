@@ -9,7 +9,7 @@
 ## 👉 Table of Contents
 - [Optimization](#chart_with_downwards_trend-optimization)
 - [XAI](#mag-XAI)
-- [Time-series Forecasting](#watch:-Time-series-Forecasting)
+- [Time-series Forecasting](#watch-Time-series-Forecasting)
 - [Computer Vision](#tv-computer-vision)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 -----------------------
