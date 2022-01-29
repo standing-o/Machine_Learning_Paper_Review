@@ -9,6 +9,7 @@
 ## 👉 Table of Contents
 - [Optimization](#chart_with_downwards_trend-optimization)
 - [XAI](#mag-XAI)
+- [Time-series Forecasting](#watch Time-series forecasting)
 - [Computer Vision](#tv-computer-vision)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 -----------------------
@@ -35,8 +36,15 @@
 <br/>
   
 ## :mag: XAI
-#### 1. Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
+#### 1. [2020Survey] Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
+
+<a href='#table-of-contents'></a>
+<br/>
+
+
+## :watch: Time-series Forecasting
+#### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021time]`](https://arxiv.org/pdf/2004.13408.pdf) | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/9)
 
 <a href='#table-of-contents'></a>
 <br/>
