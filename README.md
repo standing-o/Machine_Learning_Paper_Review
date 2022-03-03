@@ -44,8 +44,11 @@
 
 
 ## :watch: Time-series Forecasting
-#### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021time]`](https://arxiv.org/pdf/2004.13408.pdf)
+#### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021]`](https://arxiv.org/pdf/2004.13408.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/9) |
+
+#### 2. [WaveNet] WaveNet: A generative model for raw audio | [`[van2016]`](https://arxiv.org/abs/1609.03499)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/10) |
 
 <a href='#table-of-contents'></a>
 <br/>
