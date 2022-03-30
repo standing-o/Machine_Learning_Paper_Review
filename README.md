@@ -50,6 +50,9 @@
 #### 2. [WaveNet] WaveNet: A generative model for raw audio | [`[van2016]`](https://arxiv.org/abs/1609.03499)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/10) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220303_Wavenet.pdf) |
 
+#### 3. [LightGBM] | [`[ke2017]`](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/11) | [Presentation]() |
+
 <a href='#table-of-contents'></a>
 <br/>
 
