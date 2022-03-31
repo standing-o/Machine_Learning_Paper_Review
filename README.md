@@ -51,7 +51,7 @@
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/10) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220303_Wavenet.pdf) |
 
 #### 3. [LightGBM] LightGBM: A Highly Efficient Gradient Boosting Decision Tree | [`[ke2017]`](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/11) | [Presentation]() |
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/11) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220331_LightGBM.pdf) |
 
 <a href='#table-of-contents'></a>
 <br/>
