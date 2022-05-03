@@ -53,6 +53,9 @@
 #### 3. [LightGBM] LightGBM: A Highly Efficient Gradient Boosting Decision Tree | [`[ke2017]`](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/11) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220331_LightGBM.pdf) |
 
+#### 4. [RNNsearch] Neural machine translation by jointly learning to align and translate | [`[bahdanau2014]`](https://arxiv.org/pdf/1409.0473.pdf)
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/12) | [Presentation]()
+
 <a href='#table-of-contents'></a>
 <br/>
 
