@@ -56,6 +56,9 @@
 #### 4. [RNNsearch] Neural machine translation by jointly learning to align and translate | [`[bahdanau2014]`](https://arxiv.org/pdf/1409.0473.pdf)
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/12) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220504_RNNsearch.pdf) |
 
+#### 5. [Transformer] Attention is all you need | [`[vaswani2017]`](https://arxiv.org/abs/1706.03762)
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/13) |
+
 <a href='#table-of-contents'></a>
 <br/>
 
