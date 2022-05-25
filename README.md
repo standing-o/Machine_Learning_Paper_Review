@@ -1,7 +1,7 @@
 # Machine-learning Paper review
 - Machine learning paper review and code implementation
 - The summary of papers are recorded in **Issues** (Inspired by kweonwooj's [Github](https://github.com/kweonwooj/papers/issues) :thumbsup:)
-- Presentation slides are made for biweekly seminar in SClab & Data analysis club.
+- Presentation slides are made for biweekly seminar in ~~SClab & Data analysis club~~.
 - Mainly study on machine learning optimization, Explainable AI (XAI) and time-series forecasting.
 - Aug. 19, 2020 ~ Present
 
