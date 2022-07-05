@@ -59,7 +59,8 @@
 #### 5. [Transformer] Attention is all you need | [`[vaswani2017]`](https://arxiv.org/abs/1706.03762)  
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/13) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220526_Transformer.pdf) |
 
-#### 6. [Fbprophet] Forecasting at scale | [`[taylor2018]`]() | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/14) | [Presentation]() |
+#### 6. [Fbprophet] Forecasting at scale | [`[taylor2018]`](https://peerj.com/preprints/3190.pdf)  
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/14) | [Presentation]() |
 
 <a href='#table-of-contents'></a>
 <br/>
