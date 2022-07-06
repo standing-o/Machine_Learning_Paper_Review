@@ -60,7 +60,7 @@
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/13) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220526_Transformer.pdf) |
 
 #### 6. [Fbprophet] Forecasting at scale | [`[taylor2018]`](https://peerj.com/preprints/3190.pdf)  
-| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/14) | [Presentation]() |
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/14) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220706_fbprophet.pdf) |
 
 <a href='#table-of-contents'></a>
 <br/>
