@@ -44,22 +44,22 @@
 
 
 ## :watch: Time-series Forecasting
-#### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021]`](https://arxiv.org/pdf/2004.13408.pdf)
+#### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021.pdf]`](https://arxiv.org/pdf/2004.13408.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/9) |
 
-#### 2. [WaveNet] WaveNet: A generative model for raw audio | [`[van2016]`](https://arxiv.org/abs/1609.03499)
+#### 2. [WaveNet] WaveNet: A generative model for raw audio | [`[van2016.pdf]`](https://arxiv.org/abs/1609.03499)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/10) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220303_Wavenet.pdf) |
 
-#### 3. [LightGBM] LightGBM: A Highly Efficient Gradient Boosting Decision Tree | [`[ke2017]`](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
+#### 3. [LightGBM] LightGBM: A Highly Efficient Gradient Boosting Decision Tree | [`[ke2017.pdf]`](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/11) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220331_LightGBM.pdf) |
 
-#### 4. [RNNsearch] Neural machine translation by jointly learning to align and translate | [`[bahdanau2014]`](https://arxiv.org/pdf/1409.0473.pdf)
+#### 4. [RNNsearch] Neural machine translation by jointly learning to align and translate | [`[bahdanau2014.pdf]`](https://arxiv.org/pdf/1409.0473.pdf)
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/12) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220504_RNNsearch.pdf) |
 
-#### 5. [Transformer] Attention is all you need | [`[vaswani2017]`](https://arxiv.org/abs/1706.03762)  
+#### 5. [Transformer] Attention is all you need | [`[vaswani2017.pdf]`](https://arxiv.org/abs/1706.03762)  
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/13) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220526_Transformer.pdf) |
 
-#### 6. [Fbprophet] Forecasting at scale | [`[taylor2018]`](https://peerj.com/preprints/3190.pdf)  
+#### 6. [Fbprophet] Forecasting at scale | [`[taylor2018.pdf]`](https://peerj.com/preprints/3190.pdf)  
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/14) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220706_fbprophet.pdf) |
 
 <a href='#table-of-contents'></a>
