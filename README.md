@@ -86,7 +86,7 @@
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Classic_papers/4_Dimensionality_Reduction_DBN/20210121_Dimensionality_Reduction_DBN.pdf) | [Code1](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Classic_papers/4_Dimensionality_Reduction_DBN/AE_and_PCA/Multi-layer_Autoencoder_and_PCA.ipynb), [Code2](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/tree/master/Classic_papers/4_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST) |
 
 - In addition, we conducted a simple study that applied dimensionality reduction using PCA, RBM to classification problems.  
-🠊 ["Dimensionality reduction methods and Deep learning approach"](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Classic_papers/4_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST/Poster.pdf)
+🠊 [`Dimensionality reduction methods and Deep learning approach`](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Classic_papers/4_Dimensionality_Reduction_DBN/RBM_and_PCA_with_MNIST/Poster.pdf)
 
 #### 5. [Unsupervised Pretraining] Why does unsupervised pre-training help deep learning? | [`[erhan2010.pdf]`](http://proceedings.mlr.press/v9/erhan10a/erhan10a.pdf) 
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Classic_papers/5_Unsupervised_Pre-training/20210204_Unsupervised_Pre-training.pdf) | 
