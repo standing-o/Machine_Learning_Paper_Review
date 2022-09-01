@@ -69,6 +69,9 @@
 #### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/7) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
 
+#### 2. [ViT] An image is worth 16x16 words: Transformers for image recognition at scale | [`[dosovitskiy2020.pdf]`](https://arxiv.org/pdf/2010.11929.pdf)
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/15) |
+
 <a href='#table-of-contents'></a>
 <br/>
   
