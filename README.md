@@ -39,6 +39,9 @@
 #### 1. [2020Survey] Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
 
+#### 2. [MST+SHAP] Explainable machine learning in credit risk management | [`[bussmann2021]`](http://text2fa.ir/wp-content/uploads/Text2fa.ir-Explainable-Machine-Learning-in-Credit.pdf)
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/16) |
+
 <a href='#table-of-contents'></a>
 <br/>
 
