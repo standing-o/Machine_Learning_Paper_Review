@@ -7,12 +7,23 @@
 
 
 ## 👉 Table of Contents
+- [Computer Vision](#tv-computer-vision)
 - [Optimization](#chart_with_downwards_trend-optimization)
 - [XAI](#mag-XAI)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
-- [Computer Vision](#tv-computer-vision)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 -----------------------
+## :tv: Computer Vision
+#### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/7) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
+
+#### 2. [ViT] An image is worth 16x16 words: Transformers for image recognition at scale | [`[dosovitskiy2020.pdf]`](https://arxiv.org/pdf/2010.11929.pdf)
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/15) |
+
+<a href='#table-of-contents'></a>
+<br/>
+
+
 ## :chart_with_downwards_trend: Optimization
 #### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/1) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/1_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
@@ -68,15 +79,7 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## :tv: Computer Vision
-#### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/7) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
 
-#### 2. [ViT] An image is worth 16x16 words: Transformers for image recognition at scale | [`[dosovitskiy2020.pdf]`](https://arxiv.org/pdf/2010.11929.pdf)
-| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/15) |
-
-<a href='#table-of-contents'></a>
-<br/>
   
 ## :heavy_check_mark: Classic papers
 #### 1. [Turing Machine] On computable numbers, with an application to the Entscheidungsproblem. | [`[turing1936.pdf]`](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
