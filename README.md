@@ -9,7 +9,7 @@
 ## 👉 Table of Contents
 - [Computer Vision](#tv-computer-vision)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
-- [Clustering](#🛍-Clustering)
+- [Clustering](#shopping-Clustering)
 - [XAI](#mag-XAI)
 - [Optimization](#chart_with_downwards_trend-optimization)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
@@ -50,7 +50,7 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## 🛍 Clustering
+## :shopping: Clustering
 ### 1. Clustering with deep learning: Taxonomy and new methods | [`[aljalbout2018clustering]`](https://arxiv.org/pdf/1801.07648.pdf)    
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/18) |
 
