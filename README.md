@@ -50,7 +50,7 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## :shopping_bags: Clustering
+## 🛍 Clustering
 ### 1. Clustering with deep learning: Taxonomy and new methods | [`[aljalbout2018clustering]`](https://arxiv.org/pdf/1801.07648.pdf)    
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/18) |
 
