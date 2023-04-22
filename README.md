@@ -8,9 +8,10 @@
 
 ## 👉 Table of Contents
 - [Computer Vision](#tv-computer-vision)
-- [Optimization](#chart_with_downwards_trend-optimization)
-- [XAI](#mag-XAI)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
+- [Clustering](#shopping_bags-Clustering)
+- [XAI](#mag-XAI)
+- [Optimization](#chart_with_downwards_trend-optimization)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 -----------------------
 ## :tv: Computer Vision
@@ -20,38 +21,8 @@
 #### 2. [ViT] An image is worth 16x16 words: Transformers for image recognition at scale | [`[dosovitskiy2020.pdf]`](https://arxiv.org/pdf/2010.11929.pdf)
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/15) |
 
-<a href='#table-of-contents'></a>
-<br/>
-
-
-## :chart_with_downwards_trend: Optimization
-#### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/1) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/1_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
-
-#### 2. [Adam] Adam: A method for stochastic optimization. | [`[kingma2014.pdf]`](https://arxiv.org/pdf/1412.6980.pdf)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/2) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/2_ADAM/20210826_Adaptive_moment_estimation.pdf) |
-
-#### 3. [Dropout] Dropout: a simple way to prevent neural networks from overfitting. | [`[srivastava2014.pdf]`](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_campaign=buffer&utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/3) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/3_Dropout/20210907_Dropout.pdf) |   
-
-#### 4. [Batch normalization] Batch normalization: Accelerating deep network training by reducing internal covariate shift. | [`[ioffe2015.pdf]`](https://arxiv.org/pdf/1502.03167.pdf)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/4) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/4_Batch_normalization/20211005_Batch_normalization.pdf) |  
-
-#### 5. [HighwayNet] Training very deep networks. | [`[srivastava2015.pdf]`](https://arxiv.org/pdf/1507.06228.pdf)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/5) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/5_HighwayNet/20211019_HighwayNet_Training_very_deep_networks.pdf) |
-
-#### 6. [He initialization] Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. | [`[he2015.pdf]`](https://arxiv.org/pdf/1502.01852.pdf)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/6) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/6_He_initialization/20211102_He_initialization.pdf) |  
-
-<a href='#table-of-contents'></a>
-<br/>
-  
-## :mag: XAI
-#### 1. [2020Survey] Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
-| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
-
-#### 2. [MST+SHAP] Explainable machine learning in credit risk management | [`[bussmann2021]`](http://text2fa.ir/wp-content/uploads/Text2fa.ir-Explainable-Machine-Learning-in-Credit.pdf)
-| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/16) |
+#### 3. Self-supervised visual feature learning with deep neural networks: A survey | [`[jing2020self.pdf]`](https://arxiv.org/pdf/1902.06162.pdf)
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/17) |
 
 <a href='#table-of-contents'></a>
 <br/>
@@ -79,6 +50,46 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+## :shopping_bags:Clustering
+### 1. Clustering with deep learning: Taxonomy and new methods | [`[aljalbout2018clustering]`](https://arxiv.org/pdf/1801.07648.pdf)    
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/18) |
+
+
+<a href='#table-of-contents'></a>
+<br/>
+
+
+## :chart_with_downwards_trend: Optimization
+#### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/1) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/1_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
+
+#### 2. [Adam] Adam: A method for stochastic optimization. | [`[kingma2014.pdf]`](https://arxiv.org/pdf/1412.6980.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/2) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/2_ADAM/20210826_Adaptive_moment_estimation.pdf) |
+
+#### 3. [Dropout] Dropout: a simple way to prevent neural networks from overfitting. | [`[srivastava2014.pdf]`](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_campaign=buffer&utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/3) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/3_Dropout/20210907_Dropout.pdf) |   
+
+#### 4. [Batch normalization] Batch normalization: Accelerating deep network training by reducing internal covariate shift. | [`[ioffe2015.pdf]`](https://arxiv.org/pdf/1502.03167.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/4) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/4_Batch_normalization/20211005_Batch_normalization.pdf) |  
+
+#### 5. [HighwayNet] Training very deep networks. | [`[srivastava2015.pdf]`](https://arxiv.org/pdf/1507.06228.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/5) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/5_HighwayNet/20211019_HighwayNet_Training_very_deep_networks.pdf) |
+
+#### 6. [He initialization] Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. | [`[he2015.pdf]`](https://arxiv.org/pdf/1502.01852.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/6) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/6_He_initialization/20211102_He_initialization.pdf) |  
+
+<a href='#table-of-contents'></a>
+<br/>
+
+## :mag: XAI
+#### 1. [2020Survey] Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
+| [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
+
+#### 2. [MST+SHAP] Explainable machine learning in credit risk management | [`[bussmann2021]`](http://text2fa.ir/wp-content/uploads/Text2fa.ir-Explainable-Machine-Learning-in-Credit.pdf)
+| [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/16) |
+
+<a href='#table-of-contents'></a>
+<br/>
 
   
 ## :heavy_check_mark: Classic papers
