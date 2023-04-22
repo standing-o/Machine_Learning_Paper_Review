@@ -9,7 +9,7 @@
 ## 👉 Table of Contents
 - [Computer Vision](#tv-computer-vision)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
-- [Clustering](#shopping_bags-Clustering)
+- [Clustering](#🛍-Clustering)
 - [XAI](#mag-XAI)
 - [Optimization](#chart_with_downwards_trend-optimization)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
