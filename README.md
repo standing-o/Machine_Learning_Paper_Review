@@ -21,7 +21,7 @@
 #### 2. [ViT] An image is worth 16x16 words: Transformers for image recognition at scale | [`[dosovitskiy2020.pdf]`](https://arxiv.org/pdf/2010.11929.pdf)
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/15) |
 
-#### 3. Self-supervised visual feature learning with deep neural networks: A survey | [`[jing2020self.pdf]`](https://arxiv.org/pdf/1902.06162.pdf)
+#### 3. [2020Survey] Self-supervised visual feature learning with deep neural networks: A survey | [`[jing2020self.pdf]`](https://arxiv.org/pdf/1902.06162.pdf)
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/17) |
 
 <a href='#table-of-contents'></a>
