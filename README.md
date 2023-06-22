@@ -1,4 +1,4 @@
-# Machine-learning Paper Review
+# Machine Learning Paper Review
 - Machine learning paper review and code implementation
 - The summary of papers are recorded in **Issues** (Inspired by kweonwooj's [Github](https://github.com/kweonwooj/papers/issues) :thumbsup:)
 - Presentation slides are made for biweekly seminar in ~~SClab & Data analysis club~~ & [AI paper reading club](https://dirt-energy-845.notion.site/AI-8cf628b189774b4b9e05efaf84b20033).
