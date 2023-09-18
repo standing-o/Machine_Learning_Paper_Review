@@ -7,7 +7,7 @@
 
 
 ## 👉 Table of Contents
-- [AI Theory](#notebook_with_decorative_cover-ai-theory)
+- [AI Theory](#-ai-theory)
 - [Computer Vision](#tv-computer-vision)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
 - [Clustering](#shopping-Clustering)
