@@ -7,7 +7,7 @@
 
 
 ## 👉 Table of Contents
-- [AI Theory](#notebook_with_decorative_cover-ai-theory:-machine-learning,-deep-learning)
+- [AI Theory](#notebook_with_decorative_cover-ai-theory)
 - [Computer Vision](#tv-computer-vision)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
 - [Clustering](#shopping-Clustering)
@@ -16,7 +16,7 @@
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 
 -----------------------
-## 📔 AI Theory: Machine Learning, Deep Learning
+## 📔 AI Theory
 #### 1. Why do tree-based models still outperform deep learning on typical tabular data? | [`[grinsztajn2022]`](https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Paper-Datasets_and_Benchmarks.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/19) | 
 
