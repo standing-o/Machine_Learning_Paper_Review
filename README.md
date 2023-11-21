@@ -10,6 +10,7 @@
 - [AI Theory](#-ai-theory)
 - [Computer Vision](#tv-computer-vision)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
+- [Audio](#radio-Audio)
 - [Clustering](#shopping-Clustering)
 - [XAI](#mag-XAI)
 - [Optimization](#chart_with_downwards_trend-optimization)
@@ -56,6 +57,14 @@
 
 #### 6. [Fbprophet] Forecasting at scale | [`[taylor2018.pdf]`](https://peerj.com/preprints/3190.pdf)  
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/14) | [Presentation](https://github.com/standing-o/Machine-learning_Paper_review/blob/master/Time-series_forecasting/20220706_fbprophet.pdf) |
+
+<a href='#table-of-contents'></a>
+<br/>
+
+
+## :radio: Audio
+#### 1. Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers | ['[akccay2020speech]'](https://www.sciencedirect.com/science/article/pii/S0167639319302262)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/20) |    
 
 <a href='#table-of-contents'></a>
 <br/>
