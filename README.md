@@ -35,6 +35,9 @@
 #### 3. [2020Survey] Self-supervised visual feature learning with deep neural networks: A survey | [`[jing2020self.pdf]`](https://arxiv.org/pdf/1902.06162.pdf)
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/17) |
 
+#### 4. [ISP] Architectural analysis of a baseline isp pipeline | [`[park2016.pdf]`](https://scholar.archive.org/work/3dr4w4hfsnhtnejgcvwgsuenya/access/wayback/https://www.springer.com/cda/content/document/cda_downloaddocument/9789401799867-c2.pdf?SGWID=0-0-45-1518310-p177376119)
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/21) |
+
 <a href='#table-of-contents'></a>
 <br/>
 
