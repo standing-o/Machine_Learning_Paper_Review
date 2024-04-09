@@ -7,7 +7,7 @@
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
 - [Computer Vision (CV)](#tv-computer-vision)
-- [Natural Language Processing (NLP)]
+- [Natural Language Processing (NLP)](#-natural-language-processing)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
 - [Audio (Speech)](#radio-Audio)
 - [Clustering](#shopping-Clustering)
@@ -40,6 +40,10 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+## 🔠 Natural Language Processing
+
+<a href='#table-of-contents'></a>
+<br/>
 
 ## :watch: Time-series Forecasting
 #### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021.pdf]`](https://arxiv.org/pdf/2004.13408.pdf)
