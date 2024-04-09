@@ -1,16 +1,16 @@
 # Machine Learning Paper Review
-- Machine learning paper review and code implementation
 - The summary of papers are recorded in **Issues** (Inspired by kweonwooj's [Github](https://github.com/kweonwooj/papers/issues) :thumbsup:)
-- Presentation slides are made for ~~biweekly seminar in SClab & Data analysis club~~ & [~~AI paper reading club~~](https://dirt-energy-845.notion.site/AI-8cf628b189774b4b9e05efaf84b20033) & personal studying.
+- Presentation slides are made for ~~biweekly seminar in SClab & Data analysis club~~ & [~~AI paper reading club~~](https://dirt-energy-845.notion.site/AI-8cf628b189774b4b9e05efaf84b20033).
 - Mainly study on machine learning optimization, Explainable AI (XAI) and time-series forecasting.
 - Aug. 19, 2020 ~ Present
 
 
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
-- [Computer Vision](#tv-computer-vision)
+- [Computer Vision (CV)](#tv-computer-vision)
+- [Natural Language Processing (NLP)]
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
-- [Audio](#radio-Audio)
+- [Audio (Speech)](#radio-Audio)
 - [Clustering](#shopping-Clustering)
 - [XAI](#mag-XAI)
 - [Optimization](#chart_with_downwards_trend-optimization)
