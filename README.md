@@ -41,6 +41,9 @@
 <br/>
 
 ## 🔠 Natural Language Processing
+#### 1. [AQM+] Large-scale answerer in questioner's mind for visual dialog question generation | [`[lee2019]`](https://arxiv.org/pdf/1902.08355.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/22) |
+
 
 <a href='#table-of-contents'></a>
 <br/>
