@@ -6,6 +6,7 @@
 
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
+- [Medical AI](#-medical-theory)
 - [Computer Vision (CV)](#tv-computer-vision)
 - [Natural Language Processing (NLP)](#-natural-language-processing)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
@@ -24,6 +25,42 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+## 🩺 Medical AI
+#### 1. [Domain Adaptation] Advancing medical imaging informatics by deep learning-based domain adaptation | [`[choudhary2020.pdf]`](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0040-1702009.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/23) |    
+
+#### 2. Annotation-Free Deep Learning-Based Prediction of Thyroid Molecular Cancer Biomarker BRAF (V600E) from Cytological Slides | [`[wang2023annotation.pdf]`](https://www.mdpi.com/1422-0067/24/3/2521)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/25) |
+
+#### 3. Deep Learning Based Screening and Ancillary Testing for Thyroid Cytopathology | [`[dov2023deep.pdf]`](https://www.sciencedirect.com/science/article/pii/S0002944023002031?ref=pdf_download&fr=RR-2&rr=89cd0809e8a5310f)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/26) |
+
+#### 4. Pathologist-level interpretable whole-slide cancer diagnosis with deep learning | [`[zhang2019pathologist.pdf]`](https://www.nature.com/articles/s42256-019-0052-1)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/27) |
+
+#### 5. Weakly supervised instance learning for thyroid malignancy prediction from whole slide cytopathology images | [`[dov2021weakly.pdf]`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7726041/)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/28) |
+
+#### 6. Clinical-grade computational pathology using weakly supervised deep learning on whole slide images | [`[campanella2019clinical.pdf]`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7418463/)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/29) |
+
+#### 7. Support Vector Machine based diagnostic system for thyroid cancer using statistical texture features | [`[gopinath2013support.pdf]`](https://pdfs.semanticscholar.org/1172/4368de105f50369e866d8064449477bb4ebf.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/30) |
+
+#### 8. Classifying and segmenting microscopy images with deep multiple instance learning | [`[kraus2016classifying.pdf]`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4908336/pdf/btw252.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/31) |
+
+#### 9. Patch-based Convolutional Neural Network for Whole Slide Tissue Image Classification | [`[hou2016patch.pdf]`](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/32) |
+
+#### 10. Deep learning for identifying metastatic breast cancer | [`[wang2016deep]`](https://arxiv.org/abs/1606.05718)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/33) |
+
+
+<a href='#table-of-contents'></a>
+<br/>
+
+
 ## :tv: Computer Vision
 #### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/7) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
@@ -37,8 +74,7 @@
 #### 4. [ISP] Architectural analysis of a baseline isp pipeline | [`[park2016.pdf]`](https://scholar.archive.org/work/3dr4w4hfsnhtnejgcvwgsuenya/access/wayback/https://www.springer.com/cda/content/document/cda_downloaddocument/9789401799867-c2.pdf?SGWID=0-0-45-1518310-p177376119)
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/21) |
 
-#### 5. [Domain Adaptation] Advancing medical imaging informatics by deep learning-based domain adaptation | [`[choudhary2020.pdf]`](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0040-1702009.pdf)    
-| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/23) |    
+
 
 
 <a href='#table-of-contents'></a>
@@ -76,14 +112,14 @@
 
 
 ## :radio: Audio
-#### 1. [2020Survey] Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers | [`[akccay2020speech]`](https://www.sciencedirect.com/science/article/pii/S0167639319302262)    
+#### 1. [2020Survey] Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers | [`[akccay2020speech.pdf]`](https://www.sciencedirect.com/science/article/pii/S0167639319302262)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/20) |    
 
 <a href='#table-of-contents'></a>
 <br/>
 
 ## :shopping: Clustering
-#### 1. Clustering with deep learning: Taxonomy and new methods | [`[aljalbout2018clustering]`](https://arxiv.org/pdf/1801.07648.pdf)    
+#### 1. Clustering with deep learning: Taxonomy and new methods | [`[aljalbout2018clustering.pdf]`](https://arxiv.org/pdf/1801.07648.pdf)    
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/18) |
 
 
@@ -117,7 +153,7 @@
 #### 1. [2020Survey] Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
 
-#### 2. [MST+SHAP] Explainable machine learning in credit risk management | [`[bussmann2021]`](http://text2fa.ir/wp-content/uploads/Text2fa.ir-Explainable-Machine-Learning-in-Credit.pdf)
+#### 2. [MST+SHAP] Explainable machine learning in credit risk management | [`[bussmann2021.pdf]`](http://text2fa.ir/wp-content/uploads/Text2fa.ir-Explainable-Machine-Learning-in-Credit.pdf)
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/16) |
 
 <a href='#table-of-contents'></a>
