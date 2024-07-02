@@ -6,7 +6,7 @@
 
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
-- [Medical AI](#-medical-theory)
+- [Medical AI](#-medical-ai)
 - [Computer Vision (CV)](#tv-computer-vision)
 - [Natural Language Processing (NLP)](#-natural-language-processing)
 - [Time-series Forecasting](#watch-Time-series-Forecasting)
