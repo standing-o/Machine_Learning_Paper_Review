@@ -56,6 +56,15 @@
 #### 10. Deep learning for identifying metastatic breast cancer | [`[wang2016deep]`](https://arxiv.org/abs/1606.05718)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/33) |
 
+#### 11. Interactive thyroid whole slide image diagnostic system using deep representation | [`[chen2020interactive.pdf]`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492444/pdf/nihms-1607574.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/35) |
+
+#### 12. Pyramid tokens-to-token vision transformer for thyroid pathology image classification | [`[yin2022pyramid.pdf]`](https://ieeexplore.ieee.org/document/9784139/;jsessionid=B23CE0133580BA35B235B737013A2DA1)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/36) |
+
+#### 13. Automatic whole slide pathology image diagnosis framework via unit stochastic selection and attention fusion | [`[chen2021automatic.pdf]`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8786216/pdf/nihms-1667698.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/37) |
+
 
 <a href='#table-of-contents'></a>
 <br/>
