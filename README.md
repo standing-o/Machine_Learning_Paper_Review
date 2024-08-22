@@ -23,7 +23,7 @@
 
 #### 2. Understanding softmax confidence and uncertainty | [`[pearce2021understanding.pdf]`](https://arxiv.org/pdf/2106.04972)
 
-| [Summary](https://arxiv.org/pdf/2106.04972) |
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/38) |
 
 
 <a href='#table-of-contents'></a>
