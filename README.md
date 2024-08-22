@@ -18,8 +18,12 @@
 
 -----------------------
 ## 📔 AI Theory
-#### 1. Why do tree-based models still outperform deep learning on typical tabular data? | [`[grinsztajn2022]`](https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Paper-Datasets_and_Benchmarks.pdf)    
+#### 1. Why do tree-based models still outperform deep learning on typical tabular data? | [`[grinsztajn2022.pdf]`](https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Paper-Datasets_and_Benchmarks.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/19) | 
+
+#### 2. Understanding softmax confidence and uncertainty | [`[pearce2021understanding.pdf]`](https://arxiv.org/pdf/2106.04972)
+
+| [Summary](https://arxiv.org/pdf/2106.04972) |
 
 
 <a href='#table-of-contents'></a>
