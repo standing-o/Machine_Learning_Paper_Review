@@ -8,11 +8,11 @@
 - [AI Theory](#-ai-theory)
 - [Medical AI](#-medical-ai)
 - [Computer Vision (CV)](#tv-computer-vision)
-- [Natural Language Processing (NLP)](#-natural-language-processing)
-- [Time-series Forecasting](#watch-Time-series-Forecasting)
-- [Audio (Speech)](#radio-Audio)
-- [Clustering](#shopping-Clustering)
-- [XAI](#mag-XAI)
+- [Natural Language Processing (NLP)](#-natural-language-processing-and-large-language-model)
+- [Time-series Forecasting](#watch-time-series-forecasting)
+- [Audio (Speech)](#radio-audio)
+- [Clustering](#shopping-clustering)
+- [XAI](#mag-xai)
 - [Optimization](#chart_with_downwards_trend-optimization)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 
@@ -93,7 +93,7 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## 🔠 Natural Language Processing & Large Language Model
+## 🔠 Natural Language Processing and Large Language Model
 #### 1. [AQM+] Large-scale answerer in questioner's mind for visual dialog question generation | [`[lee2019.pdf]`](https://arxiv.org/pdf/1902.08355.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/22) |
 
@@ -104,7 +104,7 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## :watch: Time-series Forecasting
+## :watch: Time Series Forecasting
 #### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021.pdf]`](https://arxiv.org/pdf/2004.13408.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/9) |
 
