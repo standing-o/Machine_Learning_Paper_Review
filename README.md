@@ -7,9 +7,9 @@
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
 - [Medical AI](#-medical-ai)
-- [Computer Vision (CV)](#tv-computer-vision)
-- [Natural Language Processing (NLP)](#-natural-language-processing-and-large-language-model)
-- [Time-series Forecasting](#watch-time-series-forecasting)
+- [Computer Vision](#tv-computer-vision)
+- [Natural Language Processing and Large Language Model](#-natural-language-processing-and-large-language-model)
+- [Time Series Forecasting](#watch-time-series-forecasting)
 - [Audio (Speech)](#radio-audio)
 - [Clustering](#shopping-clustering)
 - [XAI](#mag-xai)
