@@ -93,9 +93,12 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## 🔠 Natural Language Processing
+## 🔠 Natural Language Processing & Large Language Model
 #### 1. [AQM+] Large-scale answerer in questioner's mind for visual dialog question generation | [`[lee2019.pdf]`](https://arxiv.org/pdf/1902.08355.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/22) |
+
+#### 2. [VLM] An introduction to vision-language modeling [`[bordes2024introduction.pdf]`](https://arxiv.org/pdf/2405.17247)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/39) |
 
 
 <a href='#table-of-contents'></a>
