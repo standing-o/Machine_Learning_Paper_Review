@@ -69,6 +69,8 @@
 #### 13. Automatic whole slide pathology image diagnosis framework via unit stochastic selection and attention fusion | [`[chen2021automatic.pdf]`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8786216/pdf/nihms-1667698.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/37) |
 
+#### 14. Whole slide image understanding in pathology: what is the salient scale of analysis? | [`[jenkinson2024whole.pdf]`](https://www.mdpi.com/2673-7426/4/1/28/pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/43) |    
 
 <a href='#table-of-contents'></a>
 <br/>
