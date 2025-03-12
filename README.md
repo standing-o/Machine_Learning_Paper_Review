@@ -6,6 +6,7 @@
 
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
+- [AI for Robotics](#-ai-for-robotics)
 - [Medical AI](#-medical-ai)
 - [Computer Vision](#tv-computer-vision)
 - [Natural Language Processing and Large Language Model](#-natural-language-processing-and-large-language-model)
@@ -25,6 +26,13 @@
 
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/38) |
 
+
+<a href='#table-of-contents'></a>
+<br/>
+
+## 🤖 AI for Robotics
+#### 1. [Survey] Enabling Technologies for Autonomous Robotic Systems in Manufacturing | [`[erdHos2024enabling.pdf]`](https://eprints.sztaki.hu/10841/1/Erdos_403_35437980_ny.pdf)    
+| [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/45) |
 
 <a href='#table-of-contents'></a>
 <br/>
