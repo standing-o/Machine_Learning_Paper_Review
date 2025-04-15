@@ -6,6 +6,7 @@
 
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
+- [Multimodal AI](#-multimodal-ai)
 - [AI for Robotics](#-ai-for-robotics)
 - [Medical AI](#-medical-ai)
 - [Computer Vision](#tv-computer-vision)
@@ -30,7 +31,15 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## 🤖 AI for Robotics
+## 🤖 Multimodal AI
+#### 1. [Survey] A Survey on Video Diffusion Model | [`[xing2024survey]`](https://dl.acm.org/doi/pdf/10.1145/3696415?casa_token=OXJ0boaQUoMAAAAA:DRDhL-2bXJOSt65RrPPOhVWwFwI3V6nKrIUePkmUwvfXvp4-MF8jHB1L8PE4LTGer9-3suSfBWer)    
+| [Summary]() |    
+
+<a href='#table-of-contents'></a>
+<br/>
+
+
+## 🦿 AI for Robotics
 #### 1. [Survey] Enabling Technologies for Autonomous Robotic Systems in Manufacturing | [`[erdHos2024enabling.pdf]`](https://eprints.sztaki.hu/10841/1/Erdos_403_35437980_ny.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/45) |
 
