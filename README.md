@@ -3,7 +3,11 @@
 - Presentation slides are made for ~~biweekly seminar in SClab & Data analysis club~~ & [~~AI paper reading club~~](https://dirt-energy-845.notion.site/AI-8cf628b189774b4b9e05efaf84b20033).
 - Aug. 19, 2020 ~ Present
 
+&nbsp;
+&nbsp;
+&nbsp;
 
+------------
 ## 👉 Table of Contents
 - [AI Theory](#-ai-theory)
 - [Multimodal AI](#-multimodal-ai)
@@ -18,6 +22,10 @@
 - [Optimization](#chart_with_downwards_trend-optimization)
 - [Classic Papers (before 2012)](#heavy_check_mark-classic-papers)
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 -----------------------
 ## 📔 AI Theory
 #### 1. Why do tree-based models still outperform deep learning on typical tabular data? | [`[grinsztajn2022.pdf]`](https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Paper-Datasets_and_Benchmarks.pdf)    
@@ -31,6 +39,11 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+-----
 ## 🤖 Multimodal AI
 #### 1. [Survey] A Survey on Video Diffusion Model | [`[xing2024survey]`](https://dl.acm.org/doi/pdf/10.1145/3696415?casa_token=OXJ0boaQUoMAAAAA:DRDhL-2bXJOSt65RrPPOhVWwFwI3V6nKrIUePkmUwvfXvp4-MF8jHB1L8PE4LTGer9-3suSfBWer)    
 | [Summary]() |    
@@ -38,7 +51,11 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
 
+-----
 ## 🦿 AI for Robotics
 #### 1. [Survey] Enabling Technologies for Autonomous Robotic Systems in Manufacturing | [`[erdHos2024enabling.pdf]`](https://eprints.sztaki.hu/10841/1/Erdos_403_35437980_ny.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/45) |
@@ -46,6 +63,11 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+-----
 ## 🩺 Medical AI
 #### 1. [Domain Adaptation] Advancing medical imaging informatics by deep learning-based domain adaptation | [`[choudhary2020.pdf]`](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0040-1702009.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/23) |    
@@ -93,6 +115,10 @@
 <br/>
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## :tv: Computer Vision
 #### 1. [LeNet] Gradient-based learning applied to document recognition. | [`[lecun1998.pdf]`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791&casa_token=ElGW6XRIra8AAAAA:UDZPHfQO58TTOxZo5Kw-gSpmwo9t7DWe4u197dJuKNUwJ-ZI1TomItrS-7PL0eqnnNXKalMY_Q)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/7) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/20201201_Lenet.pdf) | [Code](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Computer_vision/1_Lenet/Simple_implementation_of_CNN.ipynb) |
@@ -107,11 +133,13 @@
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/21) |
 
 
-
-
 <a href='#table-of-contents'></a>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## 🔠 Natural Language Processing and Large Language Model
 #### 1. [AQM+] Large-scale answerer in questioner's mind for visual dialog question generation | [`[lee2019.pdf]`](https://arxiv.org/pdf/1902.08355.pdf)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/22) |
@@ -123,6 +151,10 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## :watch: Time Series Forecasting
 #### 1. [2021Survey] Time-series forecasting with deep learning: a survey | [`[lim2021.pdf]`](https://arxiv.org/pdf/2004.13408.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/9) |
@@ -145,7 +177,10 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## :radio: Audio
 #### 1. [2020Survey] Speech emotion recognition: Emotional models, databases, features, preprocessing methods, supporting modalities, and classifiers | [`[akccay2020speech.pdf]`](https://www.sciencedirect.com/science/article/pii/S0167639319302262)    
 | [Summary](https://github.com/standing-o/Machine_Learning_Paper_Review/issues/20) |    
@@ -153,6 +188,10 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## :shopping: Clustering
 #### 1. Clustering with deep learning: Taxonomy and new methods | [`[aljalbout2018clustering.pdf]`](https://arxiv.org/pdf/1801.07648.pdf)    
 | [Summary](https://github.com/standing-o/Machine-learning_Paper_review/issues/18) |
@@ -161,7 +200,10 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## :chart_with_downwards_trend: Optimization
 #### 1. [Momentum] On the importance of initialization and momentum in deep learning. | [`[sutskever2013.pdf]`](http://proceedings.mlr.press/v28/sutskever13.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/1) | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Optimization/1_Initialization_and_Momentum/20210813_Initialization_and_Momentum.pdf) |
@@ -184,6 +226,10 @@
 <a href='#table-of-contents'></a>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## :mag: XAI
 #### 1. [2020Survey] Opportunities and challenges in explainable artificial intelligence (XAI): A survey | [`[das2020.pdf]`](https://arxiv.org/pdf/2006.11371.pdf)
 | [Summary](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/issues/8) |  
@@ -194,7 +240,10 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-  
+&nbsp;
+&nbsp;
+&nbsp;
+-----
 ## :heavy_check_mark: Classic papers
 #### 1. [Turing Machine] On computable numbers, with an application to the Entscheidungsproblem. | [`[turing1936.pdf]`](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
 | [Presentation](https://github.com/OH-Seoyoung/Machine-learning_Paper_review/blob/master/Classic_papers/1_Turing_Machine/20200929_Turing_Machine.pdf) | 
